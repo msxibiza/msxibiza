@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msxibiza
+- 👋 Hi, I’m Alberto Fernández 
 - 👀 I’m interested in msx asm coding
 - 🌱 I’m currently learning c++,c#, java
 - 💞️ I’m looking to collaborate on msx development
